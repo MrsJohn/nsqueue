@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/crackcomm/nsqueue/consumer"
+	"github.com/zljohn-ux/nsqueue/consumer"
 )
 
 var (

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/crackcomm/nsqueue/producer"
+	"github.com/zljohn-ux/nsqueue/producer"
 )
 
 var (

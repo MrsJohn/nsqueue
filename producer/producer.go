@@ -5,7 +5,7 @@ import (
 	"log"
 
 	"github.com/bitly/go-nsq"
-	"github.com/crackcomm/nsqueue/nsqlog"
+	"github.com/zljohn-ux/nsqueue/nsqlog"
 )
 
 // Producer inherets the nsq Producer object

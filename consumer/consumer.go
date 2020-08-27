@@ -1,11 +1,10 @@
 package consumer
 
 import (
-	"github.com/nsqio/go-nsq"
 	"log"
 
 	"github.com/bitly/go-nsq"
-	"github.com/crackcomm/nsqueue/nsqlog"
+	"github.com/zljohn-ux/nsqueue/nsqlog"
 )
 
 type topicChan struct {
