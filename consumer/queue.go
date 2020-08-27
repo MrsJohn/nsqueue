@@ -1,7 +1,7 @@
 package consumer
 
 import (
-	"github.com/nsqio/go-nsq"
+	"github.com/bitly/go-nsq"
 )
 
 type queue struct {

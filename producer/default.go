@@ -1,7 +1,7 @@
 package producer
 
 import (
-	"github.com/nsqio/go-nsq"
+	"github.com/bitly/go-nsq"
 )
 
 // DefaultProducer - Default nsq producer.

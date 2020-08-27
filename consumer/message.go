@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/nsqio/go-nsq"
+	"github.com/bitly/go-nsq"
 )
 
 // Message - Inherent nsq
