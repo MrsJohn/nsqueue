@@ -1,7 +1,6 @@
 package consumer
 
 import (
-	"github.com/nsqio/go-nsq"
 	"log"
 
 	"github.com/bitly/go-nsq"
